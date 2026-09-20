@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "bundleId": "3.10.0.2825",
-  "buildNumber": 2825,
+  "bundleId": "3.10.0.2829",
+  "buildNumber": 2829,
   "webVersion": "3.10.0",
-  "sourceSha": "4c252bee2f007605cece2b09b6003b805858fe5c",
-  "downloadUrl": "https://github.com/albopictus/kitsune-releases/releases/download/web-v3.10.0-2825/web-bundle.zip",
-  "sha256": "18b445d17fcf2f56aec5d9aeefb92c3cc180f5686b57ae079545e97046b1fddc",
-  "sizeBytes": 40350994,
+  "sourceSha": "a1d0b6f9cead2529f50b62cbea363d129cb777c7",
+  "downloadUrl": "https://github.com/albopictus/kitsune-releases/releases/download/web-v3.10.0-2829/web-bundle.zip",
+  "sha256": "216b6a5c7a81651885a347136ad43c6d9be5925ed84f0e325724f8b0a2872b48",
+  "sizeBytes": 40352126,
   "runtimeId": 1,
-  "publishedAt": "2026-09-20T05:42:53.377Z",
+  "publishedAt": "2026-09-20T12:35:23.795Z",
   "releaseNotes": [
-    "Web 热更新构建 #2825 (4c252be)",
+    "Web 热更新构建 #2829 (a1d0b6f)",
     "即开即用，秒级静默更新"
   ]
 }
