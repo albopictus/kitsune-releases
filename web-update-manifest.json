@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "bundleId": "3.10.0.2801",
-  "buildNumber": 2801,
+  "bundleId": "3.10.0.2805",
+  "buildNumber": 2805,
   "webVersion": "3.10.0",
-  "sourceSha": "810a5a31977a034dad37316913f86495da9676df",
-  "downloadUrl": "https://github.com/albopictus/kitsune-releases/releases/download/android-v3.10.0-100054/web-bundle.zip",
-  "sha256": "5333ea8b3de325bdf1413767a39021b2f200005a9d17e3721fc73be1c5773140",
-  "sizeBytes": 40352539,
+  "sourceSha": "045045c7f79723f82d1e9e1eb44795091b962aae",
+  "downloadUrl": "https://github.com/albopictus/kitsune-releases/releases/download/web-v3.10.0-2805/web-bundle.zip",
+  "sha256": "4c616a62b783c1f67cb5ec6a623ac541d8c9e555c9682003481a4f4b2c113c15",
+  "sizeBytes": 40352651,
   "runtimeId": 1,
-  "publishedAt": "2026-09-22T15:02:10.098Z",
+  "publishedAt": "2026-09-23T09:37:00.797Z",
   "releaseNotes": [
-    "Web 热更新构建 #2801 (810a5a3)",
+    "Web 热更新构建 #2805 (045045c)",
     "即开即用，秒级静默更新"
   ]
 }
