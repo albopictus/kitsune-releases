@@ -1,19 +1,19 @@
 {
   "schemaVersion": 2,
-  "bundleId": "3.10.0.2923",
-  "buildNumber": 2923,
+  "bundleId": "3.10.0.2925",
+  "buildNumber": 2925,
   "webVersion": "3.10.0",
-  "sourceSha": "f2be9b72e8fe09042f672b38a13e7bd1df1e885b",
-  "downloadUrl": "https://github.com/albopictus/kitsune-releases/releases/download/web-v3.10.0-2923/web-bundle.zip",
-  "sha256": "ab1c4c51fe565e56287398d899291e5325edd89debe7837ab374c2418d0f6fd6",
-  "sizeBytes": 40294676,
+  "sourceSha": "7aeba4ff39588667de195dc5454b95f69e3ac69a",
+  "downloadUrl": "https://github.com/albopictus/kitsune-releases/releases/download/web-v3.10.0-2925/web-bundle.zip",
+  "sha256": "6a74a19dc003765217d4845c4c05b8747b146853e1648e3d98f001953491cab8",
+  "sizeBytes": 40295226,
   "runtimeId": 1,
-  "publishedAt": "2026-10-01T11:17:51.404Z",
+  "publishedAt": "2026-10-01T11:41:18.938Z",
   "releaseNotes": [
-    "Web 热更新构建 #2923 (f2be9b7)",
+    "Web 热更新构建 #2925 (7aeba4f)",
     "即开即用，秒级静默更新"
   ],
   "signatureAlgorithm": "ECDSA_P256_SHA256",
   "keyId": "foxos-web-2026-01",
-  "signature": "5I5UGBERaPXilMXSlQ4XQbLSiSQPlnebT3iiSqu9/3AxmdWvHMvfkN10jU8BrH+QhRimaRda5o1bzYG5qDhkBQ=="
+  "signature": "hOI7YQ6rSQTSp9HPgBr6RK6klaLbhDyYcuh27hfeXwXOAEsuyCLsl/9UV+dz5IU0HhpuAKbf9cBdQOvibdbSzA=="
 }
