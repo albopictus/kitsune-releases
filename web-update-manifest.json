@@ -1,19 +1,19 @@
 {
   "schemaVersion": 2,
-  "bundleId": "3.10.0.3003",
-  "buildNumber": 3003,
+  "bundleId": "3.10.0.3034",
+  "buildNumber": 3034,
   "webVersion": "3.10.0",
-  "sourceSha": "7875ecd20d012ccf35763c0f072ef2558e8fd955",
-  "downloadUrl": "https://github.com/albopictus/kitsune-releases/releases/download/android-v3.10.0-100113/web-bundle.zip",
-  "sha256": "e3e7aea435b97cfb743a0dd1a63c4daaebfaf8a9e9c555119bb7fdec4ed818d9",
-  "sizeBytes": 40277476,
-  "runtimeId": 4,
-  "publishedAt": "2026-10-07T11:34:05.659Z",
+  "sourceSha": "c8b78bef30b97fce1305b765d853aec120712955",
+  "downloadUrl": "https://github.com/albopictus/kitsune-releases/releases/download/android-v3.10.0-100114/web-bundle.zip",
+  "sha256": "d5b3a7c2ce27c193fc3fedf13d687ed6d7eab4f1c9466fa45b2d3d05c8be0f24",
+  "sizeBytes": 40081550,
+  "runtimeId": 6,
+  "publishedAt": "2026-10-08T08:52:12.935Z",
   "releaseNotes": [
-    "Web 热更新构建 #3003 (7875ecd)",
+    "Web 热更新构建 #3034 (c8b78be)",
     "即开即用，秒级静默更新"
   ],
   "signatureAlgorithm": "ECDSA_P256_SHA256",
   "keyId": "foxos-web-2026-01",
-  "signature": "tzjEoLyKkK+H0Biszc61OUsbTrIR4FHKs2qv/c6Z735SMVTv/0q0VOu9fBp/rj9MB+wNuHfvzrKt723MHk73Cw=="
+  "signature": "zLWsBQFE7WHLXvjDi6TaorxNazUhfXtpLX0eP+1Lk4tm561Tt3VTGz5wtE8lbM/SxZXccSPFrM0Xsj9N8GaUUQ=="
 }
