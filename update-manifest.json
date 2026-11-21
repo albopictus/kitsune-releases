@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "versionCode": 100200,
+  "versionCode": 100205,
   "versionName": "v3.10.0 (Kitsune)",
-  "sourceSha": "c13976dee8134a02a1f66c8a2e80c7cd58fac113",
+  "sourceSha": "a28b335d5cc72147aa0345772a9662b4d0cb6a76",
   "apkUrl": "https://github.com/albopictus/kitsune-releases/releases/latest/download/FoxOS-latest.apk",
-  "sha256": "a0812977b30c62e85f408675c696266731b6a527a62a2d3068191ab90ebdb378",
-  "sizeBytes": 46577196,
-  "publishedAt": "2026-11-20T04:16:48.344Z",
+  "sha256": "5fcd87a853988f000aa2ac7b87f7569cc613aff78faa19cf2f7ddf6c484edb53",
+  "sizeBytes": 46586771,
+  "publishedAt": "2026-11-21T10:01:54.192Z",
   "releaseNotes": [
-    "构建 #200 (c13976d)",
+    "构建 #205 (a28b335)",
     "包含最新底座与原生依赖更新"
   ]
 }
